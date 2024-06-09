@@ -25,3 +25,4 @@ string S is made only of the characters '(' and/or ')'.
 N文字で成り立つ文字列S<br>
 Sは"VW"は適切にnested文字列<br>
 
+![image](https://github.com/Shinichi0713/Codility_Nest/assets/61480734/7124a293-1f76-4db2-8e57-0992a6ac9705)
