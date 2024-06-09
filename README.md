@@ -1,6 +1,6 @@
 # Codility_Nest
 
-"""
+```
 A string S consisting of N characters is called properly nested if:
 
 S is empty;
@@ -21,4 +21,4 @@ Write an efficient algorithm for the following assumptions:
 N is an integer within the range [0..1,000,000];
 string S is made only of the characters '(' and/or ')'.
 
-"""
+```
