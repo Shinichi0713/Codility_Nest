@@ -22,3 +22,6 @@ N is an integer within the range [0..1,000,000];
 string S is made only of the characters '(' and/or ')'.
 
 ```
+N文字で成り立つ文字列S<br>
+Sは"VW"は適切にnested文字列<br>
+
